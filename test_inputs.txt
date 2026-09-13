@@ -1,0 +1,13 @@
+Test 1:
+Favorite Food: Dal baati
+Favorite Color: Black
+Result: Program ran successfully
+
+Test 2:
+Favorite Food: Pizza
+Favorite Color: Blue
+Result: Program ran successfully
+
+Test 3:
+Favorite Food: 
+Result: Program asked for valid input
